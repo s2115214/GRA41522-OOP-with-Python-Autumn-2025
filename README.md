@@ -1,1 +1,1 @@
-
+To run the code for DataLoader, which downloads the images from the links, you need to have a data folder. Cloning this repository will make the code run fine. Downloading the image files onto github was not possible as the files are too large.
